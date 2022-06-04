@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Single Price Grid Component Solution URL](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/hub/single-price-grid-component-nSZPQQ9ubY/)
+- Live Site URL: [Single Price Grid Component Live Site URL](https://single-price-grid-frontendmentor008.netlify.app/)
 
 ## My process
 
